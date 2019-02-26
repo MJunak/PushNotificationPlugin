@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <package >
   <metadata minClientVersion="2.8.1">
-    <id>Plugin.PushNotification</id>
+    <id>MJ.Plugin.PushNotification</id>
     <version>1.3.0</version>
     <title>Push Notification Plugin for Xamarin</title>
     <authors>Rendy Del Rosario</authors>
-    <owners>crossgeeks</owners>
-    <licenseUrl>https://raw.githubusercontent.com/CrossGeeks/PushNotificationPlugin/master/LICENSE</licenseUrl>
-    <projectUrl>https://github.com/CrossGeeks/PushNotificationPlugin</projectUrl>
-    <iconUrl>https://github.com/CrossGeeks/PushNotificationPlugin/blob/master/art/icon.png?raw=true</iconUrl>
+    <owners>mjunak</owners>
+    <licenseUrl>https://raw.githubusercontent.com/MJunak/PushNotificationPlugin/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/MJunak/PushNotificationPlugin</projectUrl>
+    <iconUrl>https://github.com/MJunak/PushNotificationPlugin/blob/master/art/icon.png?raw=true</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Receive and handle push notifications across Xamarin.iOS and Xamarin.Android</description>
+    <description>Adjusted Version for the purpose of using it</description>
     <summary>Receive and handle push notifications across Xamarin.iOS and Xamarin.Android</summary>
     <releaseNotes>On demand registration, persistent token, better error handling and other minor fixes</releaseNotes>
     <copyright>Copyright 2017</copyright>
